@@ -1,5 +1,3 @@
-![Portada del Proyecto Biogenesys](https://github.com/guillermomorrone/biogenesys-expansion-covid/blob/main/portada_biogenesys.png)
-
 
 # 🧬 Proyecto Biogenesys – Expansión Estratégica Farmacéutica en Latinoamérica
 
