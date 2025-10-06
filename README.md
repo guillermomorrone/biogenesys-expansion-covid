@@ -62,9 +62,9 @@ Proyecto colaborativo desarrollado en el marco del Bootcamp **Soy Henry (2025)**
 
 ## 🚀 Archivos y Recursos
 
-📁 [Dashboard Power BI – Biogenesys]
+📁 [Dashboard Power BI – Biogenesys] (https://github.com/guillermomorrone/biogenesys-expansion-covid/blob/main/Dashboard_Biogenesys.pbix)
 📊 [Dataset base (COVID LATAM)] 
-💻 [Notebook de análisis en Python]
+💻 [Notebook de análisis en Python] (https://github.com/guillermomorrone/biogenesys-expansion-covid/blob/main/PIDA_M4_GUILLERMO_MORRONE%20(4).IPYNB)
 
 ---
 
